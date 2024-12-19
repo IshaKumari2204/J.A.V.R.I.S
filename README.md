@@ -20,7 +20,7 @@ Active elements are highlighted in green (comparison) and red (swap).
 2.Install the required library:
   "pip install pygame"
 3.Run the program:
-  "python sorting_visualizer.py"
+  "python code_1.py"
 
 #Controls
 R: Reset the list to new random numbers.
